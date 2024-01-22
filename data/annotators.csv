@@ -252,7 +252,7 @@ dc2f8a060871410bbe27941d18adfb9b;25;Female;Associate degree;Native speaker;6;['A
 7ca1e480500849dc885fbc3310125af8;38;Male;Bachelor’s degree;Native speaker;3;['New York Times'];Never;WAHR
 89c858c7e07a463a893b4469fa688948;23;Female;Some college;Native speaker;5;['The Washington Post', 'BuzzFeed', 'The Wall Street Journal', 'New York Post', 'New York Times', 'USA Today'];Several times per week;WAHR
 d3b9175a30f8480eb75aa01eb677f058;42;Female;High school graduate;Native speaker;7;['Yahoo News'];Very rarely;FALSCH
-f2563815bc14408c827d4ba73722dd9b;44;Male;Bachelor’s degree;Native speaker;9;['I occasionally look at Breitbart. Everything else on this list is fake news. I listen AM radio', ' Levin', ' Savage', "" and Shapiro when he's not too annoying. ""];Every day;FALSCH
+f2563815bc14408c827d4ba73722dd9b;44;Male;Bachelor’s degree;Native speaker;9;['I occasionally look at Breitbart. Everything else on this list is fake news. I listen AM radio', ' Levin', ' Savage',  and Shapiro when he's not too annoying. ];Every day;FALSCH
 121ab397c9044f298b6c6f713de20b8b;29;Male;Graduate work;Native speaker;-10;['Fox News', 'New York Times', 'USA Today'];Several times per week;WAHR
 a702207313de403aad2676ce277982db;36;Male;Some college;Native speaker;-2;['CNN', 'BuzzFeed'];Several times per month;WAHR
 b513d0ecf0824238890b27743e648bb1;35;Male;Bachelor’s degree;Native speaker;9;['New York Times', 'Fox News', 'ABC News'];Every day;WAHR
@@ -483,7 +483,7 @@ b8514d08d997405db9e424ab21f446a3;50;Female;High school graduate;Native speaker;4
 dff7182b9dd94bacafa71ef525fc9269;59;Male;Bachelor’s degree;Native speaker;2;['Fox News', 'New York Times', 'CNN', 'Business Insider', 'Reuters'];Every day;WAHR
 fb05775fddd141be99577576d699895e;29;Male;Bachelor’s degree;Native speaker;-4;['Reuters'];Several times per week;WAHR
 9ca4647977e74cd0bd5e7cf1e52c7658;27;Male;Some college;Near-native speaker;1;['The Guardian', 'USA Today'];Several times per week;FALSCH
-ab7a499e9d9549cd9635e86680e4dfd0;43;Male;Bachelor’s degree;Native speaker;9;"['I occasionally look at Breitbart. Everything else on this list is fake news. I listen AM radio', ' Levin', ' Savage', "" and Shapiro when he's not too annoying. ""]";Every day;WAHR
+ab7a499e9d9549cd9635e86680e4dfd0;43;Male;Bachelor’s degree;Native speaker;9;['I occasionally look at Breitbart. Everything else on this list is fake news. I listen AM radio', ' Levin', ' Savage',  and Shapiro when he's not too annoying. ];Every day;WAHR
 8f151b0b0bd44f30a77124f40e5a265b;62;Male;Bachelor’s degree;Native speaker;-4;['CNN', 'Reuters', 'Huffington Post', 'USA Today', 'CBS News'];Several times per day;FALSCH
 d7ae7bcd422544e8880f020ad5a6ac86;27;Female;Associate degree;Native speaker;-4;['Fox News'];Every day;WAHR
 ae905a3bd2244854a92ef6bdf9c0da2d;55;Female;Bachelor’s degree;Native speaker;8;['Fox News', 'CNN', 'MSNBC', 'Uk Daily Mail'];Several times per day;WAHR
@@ -516,7 +516,7 @@ b2ad1b05a42a4ba69ccf2248c7d5f491;31;Female;Bachelor’s degree;Native speaker;-1
 4b62e13f1f434de8b5ea7683eae22186;25;Male;Associate degree;Native speaker;-1;['Politico', 'New York Times', 'New York Times', 'Business Insider'];Several times per week;WAHR
 856b92694cd6488387c31797e7677511;57;Female;Bachelor’s degree;Native speaker;-8;['New York Times'];Several times per day;WAHR
 e1da9c633879455289a767d86ce54ae0;30;Female;Graduate work;Native speaker;-10;['The Washington Post', 'The Guardian', 'New York Times'];Several times per day;WAHR
-28066094b351485dae46b7184ce89f97;45;Male;Bachelor’s degree;Native speaker;9;"['I occasionally look at Breitbart. Everything else on this list is fake news. I listen AM radio', ' Levin', ' Savage', "" and Shapiro when he's not too annoying. ""]";Every day;WAHR
+28066094b351485dae46b7184ce89f97;45;Male;Bachelor’s degree;Native speaker;9;['I occasionally look at Breitbart. Everything else on this list is fake news. I listen AM radio', ' Levin', ' Savage',  and Shapiro when he's not too annoying. ];Every day;WAHR
 16c195ca75a545cc8353f0106b1c2bb1;46;Male;Bachelor’s degree;Native speaker;-3;['ABC News', 'The Washington Post', 'Huffington Post', 'CNN', 'MSNBC', 'The Wall Street Journal', 'New York Times', 'Fox News'];Several times per day;WAHR
 73c37e7b87a04a398a9a6d2dfd8421b8;47;Male;Bachelor’s degree;Native speaker;-10;['CNN', 'MSNBC'];Every day;WAHR
 5d763fa337a84a54a7b4d18300f5db5c;56;Female;Bachelor’s degree;Native speaker;-7;['CNN', 'New York Post'];Several times per day;WAHR
@@ -829,7 +829,7 @@ e459c357a1ef481292517f0de0e057de;30;Male;Graduate work;Native speaker;8;['New Yo
 4cb2dfe03fcd4755988ec4b97d495eda;70;Male;Some college;Native speaker;10;['Fox News'];Every day;WAHR
 a29ecce57128492880c39969445d2113;54;Male;Graduate work;Native speaker;0;['yahoo news'];Very rarely;FALSCH
 190d6362dade463da6af536c9ae52dc7;32;Male;Bachelor’s degree;Native speaker;-5;['New York Times'];Several times per week;WAHR
-18186be648a24c0297a0c7817c8bc6ff;49;Female;Some college;Native speaker;9;"['USA Today', "" USA TODAY Sports 'It was really"", "" really hard': Mike Trout laments leaving behind wife and newborn son to rejoin Angels teammates Los Angeles Angels star Mike Trout has left his house plenty of times before for baseball road trips"", ' but walking out the door Tuesday', ' boarding a plane to Seattle', ' and leaving behind his wife and newborn']";Very rarely;WAHR
+18186be648a24c0297a0c7817c8bc6ff;49;Female;Some college;Native speaker;9;['USA Today',  USA TODAY Sports 'It was really,  really hard': Mike Trout laments leaving behind wife and newborn son to rejoin Angels teammates Los Angeles Angels star Mike Trout has left his house plenty of times before for baseball road trips, ' but walking out the door Tuesday', ' boarding a plane to Seattle', ' and leaving behind his wife and newborn'];Very rarely;WAHR
 d3ee10d0806649589927e401f4974263;55;Female;Vocational or technical school;Native speaker;-1;['New York Times', 'The Washington Post'];Every day;WAHR
 a41467841da549348f3e17a33e0a6a68;21;Female;Bachelor’s degree;Near-native speaker;-4;['New York Times', 'The Washington Post', 'USA Today', 'New York Times'];Several times per month;FALSCH
 155b4947db0e418ba462202245190f67;28;Female;Some college;Native speaker;-7;['NPR'];Every day;WAHR
