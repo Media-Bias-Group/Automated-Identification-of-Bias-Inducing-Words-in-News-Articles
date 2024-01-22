@@ -252,7 +252,7 @@ dc2f8a060871410bbe27941d18adfb9b;25;Female;Associate degree;Native speaker;6;['A
 7ca1e480500849dc885fbc3310125af8;38;Male;Bachelor’s degree;Native speaker;3;['New York Times'];Never;WAHR
 89c858c7e07a463a893b4469fa688948;23;Female;Some college;Native speaker;5;['The Washington Post', 'BuzzFeed', 'The Wall Street Journal', 'New York Post', 'New York Times', 'USA Today'];Several times per week;WAHR
 d3b9175a30f8480eb75aa01eb677f058;42;Female;High school graduate;Native speaker;7;['Yahoo News'];Very rarely;FALSCH
-f2563815bc14408c827d4ba73722dd9b;44;Male;Bachelor’s degree;Native speaker;9;"['I occasionally look at Breitbart. Everything else on this list is fake news. I listen AM radio', ' Levin', ' Savage', "" and Shapiro when he's not too annoying. ""]";Every day;FALSCH
+f2563815bc14408c827d4ba73722dd9b;44;Male;Bachelor’s degree;Native speaker;9;['I occasionally look at Breitbart. Everything else on this list is fake news. I listen AM radio', ' Levin', ' Savage', "" and Shapiro when he's not too annoying. ""];Every day;FALSCH
 121ab397c9044f298b6c6f713de20b8b;29;Male;Graduate work;Native speaker;-10;['Fox News', 'New York Times', 'USA Today'];Several times per week;WAHR
 a702207313de403aad2676ce277982db;36;Male;Some college;Native speaker;-2;['CNN', 'BuzzFeed'];Several times per month;WAHR
 b513d0ecf0824238890b27743e648bb1;35;Male;Bachelor’s degree;Native speaker;9;['New York Times', 'Fox News', 'ABC News'];Every day;WAHR
